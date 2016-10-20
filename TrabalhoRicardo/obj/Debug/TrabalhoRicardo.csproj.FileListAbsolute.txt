@@ -1,0 +1,15 @@
+c:\users\aline\documents\visual studio 2012\Projects\TrabalhoRicardo\TrabalhoRicardo\bin\Debug\TrabalhoRicardo.exe.config
+C:\Users\aline\documents\visual studio 2012\Projects\TrabalhoRicardo\TrabalhoRicardo\bin\Debug\TrabalhoRicardo.exe
+C:\Users\aline\documents\visual studio 2012\Projects\TrabalhoRicardo\TrabalhoRicardo\bin\Debug\TrabalhoRicardo.pdb
+C:\Users\aline\documents\visual studio 2012\Projects\TrabalhoRicardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.csprojResolveAssemblyReference.cache
+C:\Users\aline\documents\visual studio 2012\Projects\TrabalhoRicardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.Properties.Resources.resources
+C:\Users\aline\documents\visual studio 2012\Projects\TrabalhoRicardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.csproj.GenerateResource.Cache
+C:\Users\aline\documents\visual studio 2012\Projects\TrabalhoRicardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.exe
+C:\Users\aline\documents\visual studio 2012\Projects\TrabalhoRicardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.pdb
+C:\Users\Josias\Desktop\30055Trabalho Ricardo\TrabalhoRicardo\bin\Debug\TrabalhoRicardo.exe.config
+C:\Users\Josias\Desktop\30055Trabalho Ricardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.exe
+C:\Users\Josias\Desktop\30055Trabalho Ricardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.pdb
+C:\Users\Josias\Desktop\30055Trabalho Ricardo\TrabalhoRicardo\bin\Debug\TrabalhoRicardo.exe
+C:\Users\Josias\Desktop\30055Trabalho Ricardo\TrabalhoRicardo\bin\Debug\TrabalhoRicardo.pdb
+C:\Users\Josias\Desktop\30055Trabalho Ricardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.Properties.Resources.resources
+C:\Users\Josias\Desktop\30055Trabalho Ricardo\TrabalhoRicardo\obj\Debug\TrabalhoRicardo.csproj.GenerateResource.Cache
